@@ -1,4 +1,4 @@
-# LUMINARY SHIELD v1.0
+# LUMINARY SHIELD v2.0
 
 ## Ultimate Defense & Detection Framework
 
